@@ -1,0 +1,94 @@
+.btn{
+    align-items:center;
+    background-color: azure;
+    font-size: 16px;
+    font-family: Helvetica;
+    display: inline-block;
+    cursor: pointer;
+    padding: 12px 24px;
+
+    
+}
+
+.red{
+    color: red;
+}
+
+.red:hover{
+    background-color: red;
+    color: black;
+}
+
+.bluevioelt{
+    color:blueviolet;
+}
+
+.bluevioelt:hover{
+    background-color:blueviolet;
+    color: black;
+}
+
+.yellow{
+    color: rgb(209, 209, 52);
+}
+.yellow:hover{
+    background-color: rgb(241, 241, 42);
+    color: black;
+}
+
+.blue{
+    color: blue;
+}
+.blue:hover{
+    background-color: blue;
+    color: black;
+}
+
+.pink{
+    color: rgb(224, 96, 118);
+}
+.pink:hover{
+    background-color: rgb(206, 91, 110);
+    color: black;
+}
+
+.green{
+    color: green;
+}
+.green:hover{
+    background-color: green;
+    color: black;
+}
+
+
+.center{
+    text-align: center;
+}
+#body{
+background-color: powderblue;
+align-items: center;
+text-align: center;
+}
+
+
+
+.body {
+    background-color: teal;
+    color: rgb(156, 93, 15);
+}
+
+.product-item {
+    width: 30%;
+    margin: 10px;
+    padding: 20px;
+    background-color: gray;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.product {
+    display: flex;
+}
